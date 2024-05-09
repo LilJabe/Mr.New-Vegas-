@@ -1,1 +1,10 @@
-
+{
+"name": "New Vegas Radio",
+  "description": "Appears in radio of Fallout New Vegas.",
+  "author": "LilJabe",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
